@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554173559 source:c:\users\andregoro\desktop\c++\teclado\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+
